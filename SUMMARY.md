@@ -1,3 +1,3 @@
 # Table of contents
 
-* [What is CAD?](README.md)
+* [Welcome!](README.md)
