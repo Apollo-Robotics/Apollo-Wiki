@@ -1,6 +1,6 @@
 ---
 description: Welcome to the Apollo Wiki
-layout: landing
+coverY: 0
 ---
 
 # Welcome!
