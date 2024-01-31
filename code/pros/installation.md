@@ -7,7 +7,7 @@ PROS Can be installed in a few ways. The currently supported and most fully-feat
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="372"><figcaption><p>The Extension Menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="372"><figcaption><p>The Extension Menu</p></figcaption></figure>
 
 </div>
 
