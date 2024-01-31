@@ -13,3 +13,5 @@
 * [Code!](code/code.md)
 * [PROS](code/pros/README.md)
   * [Installation](code/pros/installation.md)
+  * [Creating a PROS Project](code/pros/creating-a-pros-project.md)
+  * [The File Structure](code/pros/the-file-structure.md)
